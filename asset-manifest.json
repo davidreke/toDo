@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/http/davidreke.github.io/toDo/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/http/davidreke.github.io/toDo/static/js/main.3c71b0ea.chunk.js",
+    "main.js.map": "/http/davidreke.github.io/toDo/static/js/main.3c71b0ea.chunk.js.map",
+    "runtime-main.js": "/http/davidreke.github.io/toDo/static/js/runtime-main.b61f7e6e.js",
+    "runtime-main.js.map": "/http/davidreke.github.io/toDo/static/js/runtime-main.b61f7e6e.js.map",
+    "static/js/2.b8f6d5ad.chunk.js": "/http/davidreke.github.io/toDo/static/js/2.b8f6d5ad.chunk.js",
+    "static/js/2.b8f6d5ad.chunk.js.map": "/http/davidreke.github.io/toDo/static/js/2.b8f6d5ad.chunk.js.map",
+    "index.html": "/http/davidreke.github.io/toDo/index.html",
+    "precache-manifest.bc159ba42d4d45fac27f4d400eb87df6.js": "/http/davidreke.github.io/toDo/precache-manifest.bc159ba42d4d45fac27f4d400eb87df6.js",
+    "service-worker.js": "/http/davidreke.github.io/toDo/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/http/davidreke.github.io/toDo/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.b8f6d5ad.chunk.js.LICENSE.txt": "/http/davidreke.github.io/toDo/static/js/2.b8f6d5ad.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b61f7e6e.js",
+    "static/js/2.b8f6d5ad.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.3c71b0ea.chunk.js"
+  ]
+}
