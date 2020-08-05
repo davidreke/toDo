@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/http/davidreke.github.io/toDo/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/http/davidreke.github.io/toDo/static/js/main.3c71b0ea.chunk.js",
-    "main.js.map": "/http/davidreke.github.io/toDo/static/js/main.3c71b0ea.chunk.js.map",
-    "runtime-main.js": "/http/davidreke.github.io/toDo/static/js/runtime-main.b61f7e6e.js",
-    "runtime-main.js.map": "/http/davidreke.github.io/toDo/static/js/runtime-main.b61f7e6e.js.map",
-    "static/js/2.b8f6d5ad.chunk.js": "/http/davidreke.github.io/toDo/static/js/2.b8f6d5ad.chunk.js",
-    "static/js/2.b8f6d5ad.chunk.js.map": "/http/davidreke.github.io/toDo/static/js/2.b8f6d5ad.chunk.js.map",
-    "index.html": "/http/davidreke.github.io/toDo/index.html",
-    "precache-manifest.bc159ba42d4d45fac27f4d400eb87df6.js": "/http/davidreke.github.io/toDo/precache-manifest.bc159ba42d4d45fac27f4d400eb87df6.js",
-    "service-worker.js": "/http/davidreke.github.io/toDo/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/http/davidreke.github.io/toDo/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.b8f6d5ad.chunk.js.LICENSE.txt": "/http/davidreke.github.io/toDo/static/js/2.b8f6d5ad.chunk.js.LICENSE.txt"
+    "main.css": "/toDo/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/toDo/static/js/main.35352e3a.chunk.js",
+    "main.js.map": "/toDo/static/js/main.35352e3a.chunk.js.map",
+    "runtime-main.js": "/toDo/static/js/runtime-main.f5a8938e.js",
+    "runtime-main.js.map": "/toDo/static/js/runtime-main.f5a8938e.js.map",
+    "static/js/2.b8f6d5ad.chunk.js": "/toDo/static/js/2.b8f6d5ad.chunk.js",
+    "static/js/2.b8f6d5ad.chunk.js.map": "/toDo/static/js/2.b8f6d5ad.chunk.js.map",
+    "index.html": "/toDo/index.html",
+    "precache-manifest.ccf4d8df024b4c837f1b811493676b7f.js": "/toDo/precache-manifest.ccf4d8df024b4c837f1b811493676b7f.js",
+    "service-worker.js": "/toDo/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/toDo/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.b8f6d5ad.chunk.js.LICENSE.txt": "/toDo/static/js/2.b8f6d5ad.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b61f7e6e.js",
+    "static/js/runtime-main.f5a8938e.js",
     "static/js/2.b8f6d5ad.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.3c71b0ea.chunk.js"
+    "static/js/main.35352e3a.chunk.js"
   ]
 }
